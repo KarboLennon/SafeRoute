@@ -1,0 +1,886 @@
+[
+  {
+    "id": "news-1",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 1,
+    "latitude": -6.12191,
+    "longitude": 106.91347,
+    "locationName": "Puskesmas Kecamatan Koja, North Jakarta, JK, Indonesia",
+    "description": "Respon Cepat Layanan Polisi 110 : Polres Metro Jakarta Utara Tindak Lanjuti Laporan Dugaan Curanmor di Koja - Target Berita",
+    "occurredAt": "2026-06-16T03:40:11.000Z",
+    "reporterName": "Target Berita",
+    "evidence": [
+      {
+        "id": "nev-1",
+        "type": "link",
+        "url": "https://targetberita.co.id/respon-cepat-layanan-polisi-110-polres-metro-jakarta-utara-tindak-lanjuti-laporan-dugaan-curanmor-di-koja/"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://targetberita.co.id/respon-cepat-layanan-polisi-110-polres-metro-jakarta-utara-tindak-lanjuti-laporan-dugaan-curanmor-di-koja/",
+    "locationConfidence": "tinggi"
+  },
+  {
+    "id": "news-2",
+    "title": "Tawuran",
+    "category": "tawuran",
+    "level": 4,
+    "latitude": -6.13799,
+    "longitude": 106.89971,
+    "locationName": "North Jakarta, JK, Indonesia",
+    "description": "Upaya Cegah Tawuran Remaja, Mahasiswi STIAMI Gali Peran Karang Taruna Lewat Wawancara Penelitian di Kelurahan Sukapura - Web Wilayah Jakarta Utara",
+    "occurredAt": "2026-06-16T07:00:00.000Z",
+    "reporterName": "Web Wilayah Jakarta Utara",
+    "evidence": [
+      {
+        "id": "nev-2",
+        "type": "link",
+        "url": "https://utara.jakarta.go.id/berita/upaya-cegah-tawuran-remaja-mahasiswi-stiami-gali-peran-karang-taruna-lewat-wawancara-penelitian-di-kelurahan-sukapura"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://utara.jakarta.go.id/berita/upaya-cegah-tawuran-remaja-mahasiswi-stiami-gali-peran-karang-taruna-lewat-wawancara-penelitian-di-kelurahan-sukapura",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-3",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 4,
+    "latitude": -6.40811,
+    "longitude": 106.58352,
+    "locationName": "Bogor, JR, Indonesia",
+    "description": "2 Begal Bergolok yang Rampas Motor Pelajar di Bogor Ditangkap - kumparan.com - Kumparan.com",
+    "occurredAt": "2026-06-18T03:36:00.000Z",
+    "reporterName": "Kumparan.com",
+    "evidence": [
+      {
+        "id": "nev-3",
+        "type": "link",
+        "url": "https://kumparan.com/kumparannews/2-begal-bergolok-yang-rampas-motor-pelajar-di-bogor-ditangkap-27cRcAlKWri"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://kumparan.com/kumparannews/2-begal-bergolok-yang-rampas-motor-pelajar-di-bogor-ditangkap-27cRcAlKWri",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-4",
+    "title": "Tawuran",
+    "category": "tawuran",
+    "level": 2,
+    "latitude": -6.40811,
+    "longitude": 106.58352,
+    "locationName": "Bogor, JR, Indonesia",
+    "description": "Diduga Konvoi Hendak Tawuran, Gerombolan Remaja di Bogor Diadang Warga - detikNews",
+    "occurredAt": "2026-06-20T03:28:22.000Z",
+    "reporterName": "detikNews",
+    "evidence": [
+      {
+        "id": "nev-4",
+        "type": "link",
+        "url": "https://news.detik.com/berita/d-8539560/diduga-konvoi-hendak-tawuran-gerombolan-remaja-di-bogor-diadang-warga"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://news.detik.com/berita/d-8539560/diduga-konvoi-hendak-tawuran-gerombolan-remaja-di-bogor-diadang-warga",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-5",
+    "title": "Tawuran",
+    "category": "tawuran",
+    "level": 4,
+    "latitude": -6.40811,
+    "longitude": 106.58352,
+    "locationName": "Bogor, JR, Indonesia",
+    "description": "Hendak Siarkan Tawuran Via Medsos di Parung, 3 Remaja Diamankan Polisi - Bogor24Update",
+    "occurredAt": "2026-06-17T07:58:22.000Z",
+    "reporterName": "Bogor24Update",
+    "evidence": [
+      {
+        "id": "nev-5",
+        "type": "link",
+        "url": "https://bogor24update.id/hendak-siarkan-tawuran-via-medsos-di-parung-3-remaja-diamankan-polisi/"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://bogor24update.id/hendak-siarkan-tawuran-via-medsos-di-parung-3-remaja-diamankan-polisi/",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-6",
+    "title": "Tawuran",
+    "category": "tawuran",
+    "level": 4,
+    "latitude": -6.43316,
+    "longitude": 106.71245,
+    "locationName": "Parung, JR, Indonesia",
+    "description": "Diduga Akan Siarkan Tawuran Secara Live di Instagram, 3 Remaja Diamankan Polsek Parung - Bogor Update",
+    "occurredAt": "2026-06-17T03:20:49.000Z",
+    "reporterName": "Bogor Update",
+    "evidence": [
+      {
+        "id": "nev-6",
+        "type": "link",
+        "url": "https://www.bogorupdate.com/bogor-raya/diduga-akan-siarkan-tawuran-secara-live-di-instagram-3-remaja-diamankan-polsek-parung/"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://www.bogorupdate.com/bogor-raya/diduga-akan-siarkan-tawuran-secara-live-di-instagram-3-remaja-diamankan-polsek-parung/",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-7",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 3,
+    "latitude": -6.27269,
+    "longitude": 106.80557,
+    "locationName": "South Jakarta, JK, Indonesia",
+    "description": "Awal Mula Ojol di Depok Dituduh Jambret hingga Dipukul Pakai Palu - detikNews",
+    "occurredAt": "2026-06-17T09:25:25.000Z",
+    "reporterName": "detikNews",
+    "evidence": [
+      {
+        "id": "nev-7",
+        "type": "link",
+        "url": "https://news.detik.com/berita/d-8535618/awal-mula-ojol-di-depok-dituduh-jambret-hingga-dipukul-pakai-palu"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://news.detik.com/berita/d-8535618/awal-mula-ojol-di-depok-dituduh-jambret-hingga-dipukul-pakai-palu",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-8",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 3,
+    "latitude": -6.40278,
+    "longitude": 106.77444,
+    "locationName": "Sawangan, JR, Indonesia",
+    "description": "Nasib Pilu Ojol di Depok, Dituduh Jambret hingga Dipukul Pakai Palu - Kompas.com",
+    "occurredAt": "2026-06-17T23:06:00.000Z",
+    "reporterName": "Kompas.com",
+    "evidence": [
+      {
+        "id": "nev-8",
+        "type": "link",
+        "url": "https://megapolitan.kompas.com/read/2026/06/18/06060981/nasib-pilu-ojol-di-depok-dituduh-jambret-hingga-dipukul-pakai-palu"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://megapolitan.kompas.com/read/2026/06/18/06060981/nasib-pilu-ojol-di-depok-dituduh-jambret-hingga-dipukul-pakai-palu",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-9",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 3,
+    "latitude": -6.21736,
+    "longitude": 106.90484,
+    "locationName": "East Jakarta, JK, Indonesia",
+    "description": "Pria yang Tuduh Ojol di Sawangan Depok Jambret dan Aniaya Pakai Palu Ditangkap - kumparan.com - Kumparan.com",
+    "occurredAt": "2026-06-17T07:48:00.000Z",
+    "reporterName": "Kumparan.com",
+    "evidence": [
+      {
+        "id": "nev-9",
+        "type": "link",
+        "url": "https://kumparan.com/kumparannews/pria-yang-tuduh-ojol-di-sawangan-depok-jambret-dan-aniaya-pakai-palu-ditangkap-27c7SSYffDd"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://kumparan.com/kumparannews/pria-yang-tuduh-ojol-di-sawangan-depok-jambret-dan-aniaya-pakai-palu-ditangkap-27c7SSYffDd",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-10",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 3,
+    "latitude": -6.40112,
+    "longitude": 106.82366,
+    "locationName": "Depok, JR, Indonesia",
+    "description": "Motif Pria Aniaya Ojol di Depok: Salah Paham, Korban Dikira Jambret - detikNews",
+    "occurredAt": "2026-06-17T08:08:14.000Z",
+    "reporterName": "detikNews",
+    "evidence": [
+      {
+        "id": "nev-10",
+        "type": "link",
+        "url": "https://news.detik.com/berita/d-8535483/motif-pria-aniaya-ojol-di-depok-salah-paham-korban-dikira-jambret"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://news.detik.com/berita/d-8535483/motif-pria-aniaya-ojol-di-depok-salah-paham-korban-dikira-jambret",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-11",
+    "title": "Tawuran",
+    "category": "tawuran",
+    "level": 4,
+    "latitude": -6.1817,
+    "longitude": 106.64355,
+    "locationName": "Tangerang, BT, Indonesia",
+    "description": "Stop Tawuran dan Narkoba, ALPETARA Bangun Komitmen Pelajar Tangerang Raya Menuju Generasi Unggul - Mitrapol",
+    "occurredAt": "2026-06-15T07:42:39.000Z",
+    "reporterName": "Mitrapol",
+    "evidence": [
+      {
+        "id": "nev-11",
+        "type": "link",
+        "url": "https://mitrapol.com/2026/06/15/stop-tawuran-dan-narkoba-alpetara-bangun-komitmen-pelajar-tangerang-raya-menuju-generasi-unggul/"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://mitrapol.com/2026/06/15/stop-tawuran-dan-narkoba-alpetara-bangun-komitmen-pelajar-tangerang-raya-menuju-generasi-unggul/",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-12",
+    "title": "Tawuran",
+    "category": "tawuran",
+    "level": 4,
+    "latitude": -6.1817,
+    "longitude": 106.64355,
+    "locationName": "Tangerang, BT, Indonesia",
+    "description": "Jumat Curhat di Karawaci, Kapolres Ajak Warga Perangi Tawuran dan Narkoba - Sekilasbanten",
+    "occurredAt": "2026-06-19T09:59:00.000Z",
+    "reporterName": "Sekilasbanten",
+    "evidence": [
+      {
+        "id": "nev-12",
+        "type": "link",
+        "url": "https://sekilasbanten.com/jumat-curhat-di-karawaci-kapolres-ajak-warga-perangi-tawuran-dan-narkoba-2/"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://sekilasbanten.com/jumat-curhat-di-karawaci-kapolres-ajak-warga-perangi-tawuran-dan-narkoba-2/",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-13",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 4,
+    "latitude": -6.1817,
+    "longitude": 106.64355,
+    "locationName": "Tangerang, BT, Indonesia",
+    "description": "Baru Bebas 3 Bulan, Residivis Curanmor Kembali Beraksi di Tangerang - IDN Times Banten",
+    "occurredAt": "2026-06-17T08:57:42.000Z",
+    "reporterName": "IDN Times Banten",
+    "evidence": [
+      {
+        "id": "nev-13",
+        "type": "link",
+        "url": "https://banten.idntimes.com/news/banten/baru-bebas-3-bulan-residivis-curanmor-kembali-beraksi-di-tangerang-00-5f5kb-cqyj38"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://banten.idntimes.com/news/banten/baru-bebas-3-bulan-residivis-curanmor-kembali-beraksi-di-tangerang-00-5f5kb-cqyj38",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-14",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 4,
+    "latitude": -6.32973,
+    "longitude": 106.89211,
+    "locationName": "Cipayung, East Jakarta, JK, Indonesia",
+    "description": "Polres Bekasi ungkap dan tangkap pelaku begal pengemudi ojek daring - ANTARA News Megapolitan",
+    "occurredAt": "2026-06-19T02:59:19.000Z",
+    "reporterName": "ANTARA News Megapolitan",
+    "evidence": [
+      {
+        "id": "nev-14",
+        "type": "link",
+        "url": "https://megapolitan.antaranews.com/amp/berita/535912/polres-bekasi-ungkap-dan-tangkap-pelaku-begal-pengemudi-ojek-daring"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://megapolitan.antaranews.com/amp/berita/535912/polres-bekasi-ungkap-dan-tangkap-pelaku-begal-pengemudi-ojek-daring",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-15",
+    "title": "Tawuran",
+    "category": "tawuran",
+    "level": 5,
+    "latitude": -6.26882,
+    "longitude": 106.97681,
+    "locationName": "Bekasi, JR, Indonesia",
+    "description": "Brimob Tangkap 3 Remaja Diduga Hendak Tawuran di Bekasi, Sajam Disita - detikNews",
+    "occurredAt": "2026-06-20T04:04:50.000Z",
+    "reporterName": "detikNews",
+    "evidence": [
+      {
+        "id": "nev-15",
+        "type": "link",
+        "url": "https://news.detik.com/berita/d-8539582/brimob-tangkap-3-remaja-diduga-hendak-tawuran-di-bekasi-sajam-disita"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://news.detik.com/berita/d-8539582/brimob-tangkap-3-remaja-diduga-hendak-tawuran-di-bekasi-sajam-disita",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-16",
+    "title": "Tawuran",
+    "category": "tawuran",
+    "level": 4,
+    "latitude": -6.20052,
+    "longitude": 106.8339,
+    "locationName": "Menteng, Jakarta, Indonesia",
+    "description": "Brimob Gagalkan Tawuran di Bekasi, 18 Remaja dan Bom Molotov Diamankan - GoNews.co",
+    "occurredAt": "2026-06-16T07:24:00.000Z",
+    "reporterName": "GoNews.co",
+    "evidence": [
+      {
+        "id": "nev-16",
+        "type": "link",
+        "url": "https://www.gonews.co/berita/baca/2026/06/16/brimob-gagalkan-tawuran-di-bekasi-18-remaja-dan-bom-molotov-diamankan"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://www.gonews.co/berita/baca/2026/06/16/brimob-gagalkan-tawuran-di-bekasi-18-remaja-dan-bom-molotov-diamankan",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-17",
+    "title": "Tawuran",
+    "category": "tawuran",
+    "level": 4,
+    "latitude": -6.26882,
+    "longitude": 106.97681,
+    "locationName": "Bekasi, JR, Indonesia",
+    "description": "Tim 3 Kuda Nil Sat Samapta Polres Metro Bekasi Kota Sisir Zona Rawan Kejahatan Jalanan dan Tawuran - Media Budaya Indonesia",
+    "occurredAt": "2026-06-17T23:44:00.000Z",
+    "reporterName": "Media Budaya Indonesia",
+    "evidence": [
+      {
+        "id": "nev-17",
+        "type": "link",
+        "url": "https://mediabudayaindonesia.com/news/show/1706202640-tim-3-kuda-nil-sat-samapta-polres-metro-bekasi-kota-sisir-zona-rawan-kejahatan-jalanan-dan-tawuran"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://mediabudayaindonesia.com/news/show/1706202640-tim-3-kuda-nil-sat-samapta-polres-metro-bekasi-kota-sisir-zona-rawan-kejahatan-jalanan-dan-tawuran",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-18",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 4,
+    "latitude": -6.26882,
+    "longitude": 106.97681,
+    "locationName": "Bekasi, JR, Indonesia",
+    "description": "Gagalkan Aksi Curanmor di Kranji, Polres Metro Bekasi Kota Bekuk Dua Pelaku Pasca-Pesta Miras - Humas Polri",
+    "occurredAt": "2026-06-14T01:14:00.000Z",
+    "reporterName": "Humas Polri",
+    "evidence": [
+      {
+        "id": "nev-18",
+        "type": "link",
+        "url": "https://www.humas.polri.go.id/news/detail/2422399-gagalkan-aksi-curanmor-di-kranji-polres-metro-bekasi-kota-bekuk-dua-pelaku-pasca-pesta-miras"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://www.humas.polri.go.id/news/detail/2422399-gagalkan-aksi-curanmor-di-kranji-polres-metro-bekasi-kota-bekuk-dua-pelaku-pasca-pesta-miras",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-19",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 4,
+    "latitude": -6.36013,
+    "longitude": 107.1065,
+    "locationName": "Cikarang, JR, Indonesia",
+    "description": "Buron Sebulan, Komplotan Curanmor di Bekasi Diringkus Polisi - MetroTVNews.com",
+    "occurredAt": "2026-06-14T08:44:55.000Z",
+    "reporterName": "MetroTVNews.com",
+    "evidence": [
+      {
+        "id": "nev-19",
+        "type": "link",
+        "url": "https://www.metrotvnews.com/read/K5nCRnjp-buron-sebulan-komplotan-curanmor-di-bekasi-diringkus-polisi"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://www.metrotvnews.com/read/K5nCRnjp-buron-sebulan-komplotan-curanmor-di-bekasi-diringkus-polisi",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-20",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 4,
+    "latitude": -6.26882,
+    "longitude": 106.97681,
+    "locationName": "Bekasi, JR, Indonesia",
+    "description": "Terduga Pelaku Curanmor Diamankan Warga di Kandang Roda Serang – Cikarang Selatan - guecikarang.co.id",
+    "occurredAt": "2026-06-16T13:05:02.000Z",
+    "reporterName": "guecikarang.co.id",
+    "evidence": [
+      {
+        "id": "nev-20",
+        "type": "link",
+        "url": "https://guecikarang.co.id/2026/06/16/terduga-pelaku-curanmor-diamankan-warga-di-kandang-roda-serang-cikarang-selatan/"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://guecikarang.co.id/2026/06/16/terduga-pelaku-curanmor-diamankan-warga-di-kandang-roda-serang-cikarang-selatan/",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-21",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 4,
+    "latitude": -6.13333,
+    "longitude": 106.59806,
+    "locationName": "Benda, BT, Indonesia",
+    "description": "Curanmor di Perumahan Bekasi Terungkap, Polisi Sita NMax dan Korek Api Berbentuk Pistol - Suara.com",
+    "occurredAt": "2026-06-14T08:31:04.000Z",
+    "reporterName": "Suara.com",
+    "evidence": [
+      {
+        "id": "nev-21",
+        "type": "link",
+        "url": "https://www.suara.com/news/2026/06/14/153104/curanmor-di-perumahan-bekasi-terungkap-polisi-sita-nmax-dan-korek-api-berbentuk-pistol"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://www.suara.com/news/2026/06/14/153104/curanmor-di-perumahan-bekasi-terungkap-polisi-sita-nmax-dan-korek-api-berbentuk-pistol",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-22",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 2,
+    "latitude": -6.2111,
+    "longitude": 106.81232,
+    "locationName": "Jalan Bendungan Hilir, Jakarta, Indonesia",
+    "description": "Korban Jambret di Benhil Rugi Rp 19 Juta, Termasuk Limit Paylater yang Dikuras Pelaku - Kompas.com",
+    "occurredAt": "2026-06-19T14:47:00.000Z",
+    "reporterName": "Kompas.com",
+    "evidence": [
+      {
+        "id": "nev-1",
+        "type": "link",
+        "url": "https://megapolitan.kompas.com/read/2026/06/19/21471461/korban-jambret-di-benhil-rugi-rp-19-juta-termasuk-limit-paylater-yang"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://megapolitan.kompas.com/read/2026/06/19/21471461/korban-jambret-di-benhil-rugi-rp-19-juta-termasuk-limit-paylater-yang",
+    "locationConfidence": "tinggi"
+  },
+  {
+    "id": "news-23",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 2,
+    "latitude": -6.2278,
+    "longitude": 106.80102,
+    "locationName": "Bundaran Senayan, Jakarta, Indonesia",
+    "description": "Gara-gara AC Toyota Rush Mati, Penumpang Taksi Online Jadi Korban Jambret di Senayan Jakarta - GridOto.com",
+    "occurredAt": "2026-06-18T05:35:00.000Z",
+    "reporterName": "GridOto.com",
+    "evidence": [
+      {
+        "id": "nev-2",
+        "type": "link",
+        "url": "https://www.gridoto.com/read/224388617/gara-gara-ac-toyota-rush-mati-penumpang-taksi-online-jadi-korban-jambret-di-senayan-jakarta"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://www.gridoto.com/read/224388617/gara-gara-ac-toyota-rush-mati-penumpang-taksi-online-jadi-korban-jambret-di-senayan-jakarta",
+    "locationConfidence": "tinggi"
+  },
+  {
+    "id": "news-24",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 1,
+    "latitude": -6.2299,
+    "longitude": 106.8524,
+    "locationName": "Kecamatan Tebet, JK, Indonesia",
+    "description": "Jaga Kamtibmas Tetap Kondusif, Polsek Tebet Gelar Operasi Pencegahan Begal dan Curanmor - Humas Polri",
+    "occurredAt": "2026-06-19T03:27:00.000Z",
+    "reporterName": "Humas Polri",
+    "evidence": [
+      {
+        "id": "nev-3",
+        "type": "link",
+        "url": "https://humas.polri.go.id/news/detail/2429245-jaga-kamtibmas-tetap-kondusif-polsek-tebet-gelar-operasi-pencegahan-begal-dan-curanmor"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://humas.polri.go.id/news/detail/2429245-jaga-kamtibmas-tetap-kondusif-polsek-tebet-gelar-operasi-pencegahan-begal-dan-curanmor",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-25",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 2,
+    "latitude": -6.22421,
+    "longitude": 106.80581,
+    "locationName": "Gelora Bung Karno;HALTE TJ GELORA BUNG KARNO, Jakarta, Indonesia",
+    "description": "Kriminal kemarin, Roy Suryo dan Tifa ditangkap hingga curanmor di GBK - ANTARA News",
+    "occurredAt": "2026-06-19T23:40:23.000Z",
+    "reporterName": "ANTARA News",
+    "evidence": [
+      {
+        "id": "nev-4",
+        "type": "link",
+        "url": "https://www.antaranews.com/berita/5615592/kriminal-kemarin-roy-suryo-dan-tifa-ditangkap-hingga-curanmor-di-gbk"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://www.antaranews.com/berita/5615592/kriminal-kemarin-roy-suryo-dan-tifa-ditangkap-hingga-curanmor-di-gbk",
+    "locationConfidence": "tinggi"
+  },
+  {
+    "id": "news-26",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 1,
+    "latitude": -6.10575,
+    "longitude": 106.89875,
+    "locationName": "Koja, North Jakarta, JK, Indonesia",
+    "description": "Respon Cepat Layanan Polisi 110 : Polres Metro Jakarta Utara Tindak Lanjuti Laporan Dugaan Curanmor di Koja - Target Berita",
+    "occurredAt": "2026-06-16T03:40:11.000Z",
+    "reporterName": "Target Berita",
+    "evidence": [
+      {
+        "id": "nev-5",
+        "type": "link",
+        "url": "https://targetberita.co.id/respon-cepat-layanan-polisi-110-polres-metro-jakarta-utara-tindak-lanjuti-laporan-dugaan-curanmor-di-koja/"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://targetberita.co.id/respon-cepat-layanan-polisi-110-polres-metro-jakarta-utara-tindak-lanjuti-laporan-dugaan-curanmor-di-koja/",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-27",
+    "title": "Tawuran",
+    "category": "tawuran",
+    "level": 2,
+    "latitude": -6.19493,
+    "longitude": 106.89634,
+    "locationName": "Jati, East Jakarta, JK, Indonesia",
+    "description": "Polisi bubarkan tawuran di Jaktim, empat remaja ditangkap - ANTARA News",
+    "occurredAt": "2026-06-20T04:10:54.000Z",
+    "reporterName": "ANTARA News",
+    "evidence": [
+      {
+        "id": "nev-6",
+        "type": "link",
+        "url": "https://m.antaranews.com/amp/berita/5615732/polisi-bubarkan-tawuran-di-jaktim-empat-remaja-ditangkap"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://m.antaranews.com/amp/berita/5615732/polisi-bubarkan-tawuran-di-jaktim-empat-remaja-ditangkap",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-28",
+    "title": "Tawuran",
+    "category": "tawuran",
+    "level": 3,
+    "latitude": -6.17272,
+    "longitude": 106.7532,
+    "locationName": "West Jakarta, JK, Indonesia",
+    "description": "Tawuran Marak di Jakut-Jakbar, Sahroni Minta Polisi Tertibkan - DPP Partai NasDem",
+    "occurredAt": "2026-06-19T08:11:27.000Z",
+    "reporterName": "DPP Partai NasDem",
+    "evidence": [
+      {
+        "id": "nev-7",
+        "type": "link",
+        "url": "https://partainasdem.id/2026/06/19/tawuran-marak-di-jakut-jakbar-sahroni-minta-polisi-tertibkan/"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://partainasdem.id/2026/06/19/tawuran-marak-di-jakut-jakbar-sahroni-minta-polisi-tertibkan/",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-29",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 4,
+    "latitude": -6.57971,
+    "longitude": 106.80037,
+    "locationName": "Bogor, JR, Indonesia",
+    "description": "Kapolsek Rancabungur Imbau Warga Waspada Curanmor dan Begal, Berikut Langkah Pencegahannya - Kobra Post Online",
+    "occurredAt": "2026-06-19T01:20:33.000Z",
+    "reporterName": "Kobra Post Online",
+    "evidence": [
+      {
+        "id": "nev-11",
+        "type": "link",
+        "url": "https://www.kobrapostonline.com/kapolsek-rancabungur-imbau-warga-waspada/"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://www.kobrapostonline.com/kapolsek-rancabungur-imbau-warga-waspada/",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-30",
+    "title": "Bahaya Jalan",
+    "category": "bahaya_jalan",
+    "level": 3,
+    "latitude": -6.41547,
+    "longitude": 106.78106,
+    "locationName": "Jalan Raya Pasir Putih, Depok, JR, Indonesia",
+    "description": "Pria yang Tuduh Ojol Jambret lalu Pukul Pakai Palu di Depok Ditangkap - Kompas.com",
+    "occurredAt": "2026-06-17T11:21:00.000Z",
+    "reporterName": "Kompas.com",
+    "evidence": [
+      {
+        "id": "nev-15",
+        "type": "link",
+        "url": "https://megapolitan.kompas.com/read/2026/06/17/18213761/pria-yang-tuduh-ojol-jambret-lalu-pukul-pakai-palu-di-depok-ditangkap"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://megapolitan.kompas.com/read/2026/06/17/18213761/pria-yang-tuduh-ojol-jambret-lalu-pukul-pakai-palu-di-depok-ditangkap",
+    "locationConfidence": "tinggi"
+  },
+  {
+    "id": "news-31",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 4,
+    "latitude": -6.25,
+    "longitude": 106.58333,
+    "locationName": "Kabupaten Tangerang, BT, Indonesia",
+    "description": "Dramatis! Residivis Curanmor Ditembak Polisi Saat Kabur - SinPo.id",
+    "occurredAt": "2026-06-16T07:50:00.000Z",
+    "reporterName": "SinPo.id",
+    "evidence": [
+      {
+        "id": "nev-17",
+        "type": "link",
+        "url": "https://tv.sinpo.id/detail/dramatis-residivis-curanmor-ditembak-polisi-saat-kabur"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://tv.sinpo.id/detail/dramatis-residivis-curanmor-ditembak-polisi-saat-kabur",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-32",
+    "title": "Tawuran",
+    "category": "tawuran",
+    "level": 3,
+    "latitude": -6.53667,
+    "longitude": 107.06167,
+    "locationName": "Menteng, JR, Indonesia",
+    "description": "Brimob Gagalkan Tawuran di Bekasi, 18 Remaja dan Bom Molotov Diamankan - GoNews.co",
+    "occurredAt": "2026-06-16T07:24:00.000Z",
+    "reporterName": "GoNews.co",
+    "evidence": [
+      {
+        "id": "nev-19",
+        "type": "link",
+        "url": "https://www.gonews.co/berita/baca/2026/06/16/brimob-gagalkan-tawuran-di-bekasi-18-remaja-dan-bom-molotov-diamankan"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://www.gonews.co/berita/baca/2026/06/16/brimob-gagalkan-tawuran-di-bekasi-18-remaja-dan-bom-molotov-diamankan",
+    "locationConfidence": "sedang"
+  },
+  {
+    "id": "news-33",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 1,
+    "latitude": -6.21524,
+    "longitude": 106.7121,
+    "locationName": "Karyawan 2 Karang Tengah, Tangerang, BT, Indonesia",
+    "description": "Lagi, Polres Tangerang Kota Tangkap Residivis Curanmor Kambuhan - Lampumerahnews",
+    "occurredAt": "2026-06-15T16:01:00.000Z",
+    "reporterName": "Lampumerahnews",
+    "evidence": [
+      {
+        "id": "nev-3",
+        "type": "link",
+        "url": "https://www.lampumerahnews.id/2026/06/lagi-polres-tangerang-kota-tangkap.html?m"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://www.lampumerahnews.id/2026/06/lagi-polres-tangerang-kota-tangkap.html?m",
+    "locationConfidence": "tinggi"
+  },
+  {
+    "id": "news-34",
+    "title": "Begal / Pencurian",
+    "category": "pencurian",
+    "level": 2,
+    "latitude": -6.21,
+    "longitude": 106.63306,
+    "locationName": "Cikokol, Tangerang, BT, Indonesia",
+    "description": "20 Kali Bobol Rumsong , Resmob Polres Metro Tangerang Kota Tangkap Residivis Curanmor - koranpelita.co",
+    "occurredAt": "2026-06-15T07:49:04.000Z",
+    "reporterName": "koranpelita.co",
+    "evidence": [
+      {
+        "id": "nev-4",
+        "type": "link",
+        "url": "https://koranpelita.co/2026/06/20-kali-bobol-rumsong-resmob-polres-metro-tangerang-kota-tangkap-residivis-curanmor/"
+      }
+    ],
+    "confirmations": 5,
+    "comments": 0,
+    "likes": 0,
+    "trusted": true,
+    "source": "news",
+    "sourceUrl": "https://koranpelita.co/2026/06/20-kali-bobol-rumsong-resmob-polres-metro-tangerang-kota-tangkap-residivis-curanmor/",
+    "locationConfidence": "sedang"
+  }
+]

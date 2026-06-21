@@ -1,0 +1,40 @@
+===== 2026-06-20 20:19:04 =====
+🔑 ORS: ada · Groq: ada (llama-3.3-70b-versatile)
+  ✓ pencurian L1 @ Tangerang, BT, Indonesia (locality)
+  ✓ pencurian L4 @ Kabupaten Tangerang, BT, Indonesia (localadmin)
+  ✓ pencurian L2 @ Karyawan 2 Karang Tengah, Tangerang, BT, Indonesia (street)
+
+📰 3 baru (dari 6 artikel ≤7h) + 1 lama dipertahankan, 0 kedaluwarsa dihapus → total 4 → src/data/newsReports.json
+
+===== 2026-06-21 00:00:00 =====
+🔑 ORS: ada · Groq: ada (llama-3.3-70b-versatile)
+  ✓ pencurian L1 @ Tangerang, BT, Indonesia (locality)
+  ✓ pencurian L4 @ Kabupaten Tangerang, BT, Indonesia (localadmin)
+  ✓ pencurian L1 @ Karyawan 2 Karang Tengah, Tangerang, BT, Indonesia (street)
+
+📰 3 baru (dari 6 artikel ≤7h) + 1 lama dipertahankan, 0 kedaluwarsa dihapus → total 4 → src/data/newsReports.json
+
+===== 2026-06-21 12:00:00 =====
+🔑 ORS: ada · Groq: ada (llama-3.3-70b-versatile) · Output: json
+📚 7 berita lama (≤48j) buat anti-duplikat.
+  ⚠️ Groq error fetch failed
+node:internal/deps/undici/undici:14976
+      Error.captureStackTrace(err);
+            ^
+
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:14976:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async geocode (file:///Users/muchtar/Project%20Gabut/Hackaton/jagamalam/scripts/news-pipeline.mjs:403:15)
+    at async run (file:///Users/muchtar/Project%20Gabut/Hackaton/jagamalam/scripts/news-pipeline.mjs:467:19) {
+  [cause]: Error: getaddrinfo ENOTFOUND api.openrouteservice.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'api.openrouteservice.org'
+  }
+}
+
+Node.js v20.20.2
+

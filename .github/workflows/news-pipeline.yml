@@ -1,0 +1,27 @@
+name: news-pipeline
+
+on:
+  # 00:00 WIB tiap hari = 17:00 UTC hari sebelumnya.
+  schedule:
+    - cron: '0 17 * * *'
+  # Tombol "Run workflow" manual buat testing dari Actions tab.
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+
+      - name: Run pipeline → Supabase
+        env:
+          EXPO_PUBLIC_ORS_API_KEY: ${{ secrets.EXPO_PUBLIC_ORS_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          EXPO_PUBLIC_SUPABASE_URL: ${{ secrets.EXPO_PUBLIC_SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node scripts/news-pipeline.mjs --supabase

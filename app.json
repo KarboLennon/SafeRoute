@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "Safe Route by MATA",
+    "slug": "jagamalam",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "softwareKeyboardLayoutMode": "pan",
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/icon.png"
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBTy_216zd7JfBzpcJiEFzzUTZHR39ZDMA"
+        }
+      },
+      "predictiveBackGestureEnabled": false,
+      "permissions": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ],
+      "package": "com.anonymous.saferoute"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Safe Route butuh lokasi untuk memantau perjalananmu dan mengirim SOS bila terjadi anomali."
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "df45cc56-8eae-431b-8a91-4b7758210488"
+      }
+    },
+    "owner": "spacelunar23"
+  }
+}
